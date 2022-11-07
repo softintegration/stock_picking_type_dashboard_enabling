@@ -18,7 +18,7 @@ msgstr ""
 #. module: stock_picking_type_dashboard_enabling
 #: model:ir.model.fields,field_description:stock_picking_type_dashboard_enabling.field_stock_picking_type__display_in_dashboard
 msgid "Display in main dashboard"
-msgstr "Afficher sur le tableau de bord"
+msgstr "Afficher sur la vue d'ensemble"
 
 #. module: stock_picking_type_dashboard_enabling
 #: model:ir.model,name:stock_picking_type_dashboard_enabling.model_stock_picking_type
